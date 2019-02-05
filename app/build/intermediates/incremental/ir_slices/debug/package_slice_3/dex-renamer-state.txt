@@ -1,0 +1,4 @@
+#Wed Feb 06 00:44:30 IST 2019
+base.0=C\:\\Users\\dell\\Downloads\\PricifyTask-20181118T170959Z-001\\PricifyTask\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\3
+path.0=classes.dex
+renamed.0=classes.dex
